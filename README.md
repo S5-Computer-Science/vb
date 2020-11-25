@@ -16,8 +16,8 @@ For Linux use  : [IDA](https://out7.hex-rays.com/files/idafree70_linux.run) or [
 
 For WSL or TermLinux or BSD use : GDB '(GNU Debugger Binary') use:
 
-'sudo apt-get install gdb' 
+`sudo apt-get install gdb`
 
 *or* 
 
-'sudo apt-get install lldb'
+`sudo apt-get install lldb`
