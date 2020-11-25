@@ -1,3 +1,5 @@
+'only use if writing code from scratch
+'=============================================================================
 Public Class Form1
 
     Private lstDisplay As ListBox
@@ -8,7 +10,7 @@ Public Class Form1
 
 
     End Sub
-
+'=============================================================================
 
     Public Sub Filehanlde(path As String, mode As Integer)
 
